@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="test suite" duration-ms="77634" started-at="2020-05-13T16:28:25Z" finished-at="2020-05-13T16:29:43Z">
+    <groups>
+    </groups>
+    <test name="Test Execution" duration-ms="77634" started-at="2020-05-13T16:28:25Z" finished-at="2020-05-13T16:29:43Z">
+      <class name="driver.DriverScript">
+        <test-method status="PASS" signature="preRequisite()[pri:0, instance:driver.DriverScript@6cd8737]" name="preRequisite" is-config="true" duration-ms="132" started-at="2020-05-13T16:28:25Z" finished-at="2020-05-13T16:28:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preRequisite -->
+        <test-method status="PASS" signature="executeTest()[pri:0, instance:driver.DriverScript@6cd8737]" name="executeTest" duration-ms="77603" started-at="2020-05-13T16:28:25Z" finished-at="2020-05-13T16:29:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeTest -->
+      </class> <!-- driver.DriverScript -->
+    </test> <!-- Test Execution -->
+  </suite> <!-- test suite -->
+</testng-results>
